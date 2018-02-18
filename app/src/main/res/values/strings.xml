@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calories</string>
+    <string name="product_name">Enter product</string>
+    <string name="product_amount">Enter amount</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="values_array">
+        <item>kg</item>
+        <item>g</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
